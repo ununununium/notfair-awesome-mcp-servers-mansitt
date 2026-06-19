@@ -214,6 +214,7 @@
 - **[Klaviyo MCP](https://github.com/klaviyo/mcp-klaviyo)** — E-commerce email and SMS marketing automation via Klaviyo.
 - **[PostHog MCP](https://github.com/PostHog/mcp-server-posthog)** — Product analytics, feature flags, session recordings, and A/B tests.
 - **[Mixpanel MCP](https://github.com/mcp-servers/mcp-mixpanel)** — Event analytics, user segmentation, and funnel analysis from Mixpanel.
+- **[NotFair](https://github.com/nowork-studio/NotFair)** — Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ---
 
