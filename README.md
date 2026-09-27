@@ -173,6 +173,7 @@
 - **[Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server)** — Scrape, crawl, and extract clean data from any website at scale.
 - **[Apify MCP](https://github.com/apify/mcp-server-apify)** — Run web scraping actors and manage datasets on the Apify platform.
 - **[Wikipedia MCP](https://github.com/mcp-servers/mcp-wikipedia)** — Search and retrieve Wikipedia articles, summaries, and structured data.
+- **[Statsnet MCP](https://github.com/usenetstate/statsnet-mcp)** — Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`.
 
 ---
 
